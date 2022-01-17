@@ -1,7 +1,8 @@
 ---
 name: Моше
+code: moshe
 type: person
-era: Библейский период
+era: biblical
 ---
 
 Описание жизни Моше.
