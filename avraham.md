@@ -1,5 +1,6 @@
 ---
 name: Авраам
+code: avraham
 type: person
 era: Библейский период
 ---
