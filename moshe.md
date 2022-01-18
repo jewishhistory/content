@@ -1,6 +1,5 @@
 ---
 name: Моше
-code: moshe
 type: person
 era: biblical
 ---
