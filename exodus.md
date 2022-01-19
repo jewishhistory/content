@@ -1,6 +1,6 @@
 ---
 name: Исход евреев из Египта
-date_start: -1300
+date_start: 15-nisan-2448
 type: event
 era: biblical
 persons:
